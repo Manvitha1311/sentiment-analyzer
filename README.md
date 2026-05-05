@@ -46,7 +46,7 @@ Project Structure
 
 sentiment_analyzer/
 │
-├── app.py
+├── main.py
 ├── requirements.txt
 ├── templates/
 │   └── index.html
@@ -66,7 +66,7 @@ venv\Scripts\activate
 Install dependencies
 pip install -r requirements.txt
 Run the application
-python app.py
+python main.py
 Open in browser
 http://127.0.0.1:5000/
 Example Outputs
